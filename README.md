@@ -1,4 +1,7 @@
 # 📱 MiPrimerAndroidApp
+## 📸 Captura de pantalla de la app
+
+![Captura de la app](https://github.com/leomos2022/MiPrimerAndroidApp/blob/main/MiPrimerAndroidApp.png?raw=true)
 
 Este proyecto fue desarrollado como parte del taller **Android dev hub** del curso de desarrollo móvil. A través de esta aplicación, se aprendieron conceptos clave sobre la configuración del entorno Android Studio, el desarrollo de interfaces, la interacción con botones y la integración con GitHub.
 
